@@ -13,11 +13,9 @@
             android:windowSoftInputMode="adjustResize"
             android:name=".MainActivity2"
             android:exported="false"/>
-            //android:theme="@android:style/Theme.NoTitleBar.Fullscreen"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
-            //android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
